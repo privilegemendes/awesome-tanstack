@@ -39,6 +39,17 @@
 ### TanStack Router
 
 
+## Tutorials & Articles
+
+### YouTube
+- [Tanner Linsley Channel](https://www.youtube.com/user/tannerlinsley) - Tanner Linsley, creator of TanStack, shares tutorials and insights on building full-stack React applications.
+- [The Journey To Making A New Framework: TanStack Start with Tanner Linsley](https://www.youtube.com/watch?v=qVnzbeo6rH0) - Tanner Linsley, creator of TanStack, talks about the journey of creating TanStack Start, a new full-stack React framework.
+- [An Early Glimpse of TanStack Start](https://www.youtube.com/watch?v=AuHqwQsf64o) - TanStack Start is a fresh take on full-stack React development by the same creators of TanStack Query and TanStack Router.
+- [TanStack Table Tutorial](https://www.youtube.com/watch?v=CjqG277Hmgg) - In this video you'll learn how to create a complex, customizable table using the TanStack table library using Chakra UI.
+- [TanStack Form Podcast](https://www.youtube.com/shorts/JpUDJO6yZIw) -Podcast @devtoolsfm talks about their chat with creator Taylor Lindsey about introducing TanStack Form.
+- [Is TanStack Router Better than React-Router?](https://www.youtube.com/watch?v=qOwnQJOClrw) - An example using TanStack Router for streaming movies.
+- [Next Gen Fullstack React with TanStack Start](https://www.youtube.com/watch?v=4PymccvinIo) - Scott and Wes from Syntax talk with Tanner Linsley, creator of TanStack, about the React ecosystem, and the evolution and futue of TanStack's suite of tools, including TanStack Router and TanStack Start.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
