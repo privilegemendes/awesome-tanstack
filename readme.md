@@ -34,6 +34,10 @@
 ### Tanstack Virtual
 - [Virtual Grid](https://github.com/niikeec/virtual-grid) - A library for implementing virtualized grids, ideal for efficiently rendering large data sets with minimal performance overhead.
 
+### TanStack Start (Alpha)
+- [Clerk Authentication with Clerk](https://clerk.com/docs/quickstarts/tanstack-start) - Clerk's TanStack Start SDK gives you access to prebuilt components, React hooks, and helpers to make user authentication easier.
+- [Convex](https://docs.convex.dev/quickstart/tanstack-start) - Query data from Convex (Backend as a Service) in a TanStack Start site.
+
 ### TanStack Form
 
 ### TanStack Router
